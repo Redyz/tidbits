@@ -1,1 +1,1 @@
-/svn/red_testing/Mirror/mirror.sh
+rsync /home/guest/Documents/Mirror/ /mnt/mirror -rL
